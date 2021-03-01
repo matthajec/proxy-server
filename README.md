@@ -1,4 +1,4 @@
-# API Proxy Server
+# RESTful API Proxy Server
 A server to hide api keys
 
 This was something I made that can be customized to hide API keys. Simply just append the API key to the URL.
